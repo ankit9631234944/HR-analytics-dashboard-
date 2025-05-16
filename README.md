@@ -27,5 +27,5 @@ KPIs qustions -
 - Count by maritaldesc annd gender?(Bar graph)
 - Attraition by year (Line graph)?
 - 
--  
+-  https://github.com/ankit9631234944/HR-analytics-dashboard-/blob/main/Screenshot%201947-02-25%20at%208.18.30%20AM.png
 
